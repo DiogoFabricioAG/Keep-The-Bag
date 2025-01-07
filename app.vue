@@ -1,3 +1,5 @@
 <template>
-  <NuxtPage />
+  <HeadComponent/>
+  <NuxtPage/>
 </template>
+
