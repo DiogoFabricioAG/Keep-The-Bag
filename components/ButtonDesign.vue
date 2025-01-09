@@ -22,6 +22,7 @@ import { defineProps } from 'vue'
 import CoinIcon from './icons/CoinIcon.vue';
 import HistoryIcon from './icons/HistoryIcon.vue';
 import PenIcon from './icons/PenIcon.vue';
+
 const props = defineProps({
   title: String,
   description: String,
